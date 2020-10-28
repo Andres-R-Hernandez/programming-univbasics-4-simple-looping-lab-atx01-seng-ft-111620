@@ -24,6 +24,9 @@ def output_array(array)
 end
 
 def return_string_array
+ new_array = []
 
 
+ 
+ return new_array
 end
